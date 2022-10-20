@@ -6,7 +6,6 @@ def main():
     num = 1
     while True:
         print(f"Processing {num}")
-        time.sleep(0.1)
         num += 1
 
 
